@@ -1,0 +1,64 @@
+.bd-toc {
+    padding-left: 0;
+    list-style: none;
+}
+
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.form-signin .checkbox {
+    font-weight: 400;
+}
+
+.form-signin .form-floating:focus-within {
+    z-index: 2;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.br-0 {
+    border-radius: 0;
+}
+
+.mt-32p {
+    margin-top: 32px;
+}
+
+.mr-2 {
+    margin-right: .5rem !important;
+}
+
+.mr-3 {
+    margin-right: .75rem !important;
+}
+
+.mb--1 {
+    margin-bottom: -1px;
+}
+
+.btlrr-0 {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.bblrr-0 {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}

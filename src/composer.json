@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "core\\": "core",
+      "app\\": "app"
+    }
+  },
+  "require": {
+    "ext-pdo": "*",
+    "symfony/validator": "^7.0"
+  }
+}
